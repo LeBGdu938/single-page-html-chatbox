@@ -1,7 +1,4 @@
-# hello-world
-My first GitHub
-
-// Just testing Github. My first bit of code added here: 
+Single page for testing callback, JSON responses for chatbot. 
 
 Console.WriteLine("Hello Cosmopolites");
 
